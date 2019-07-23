@@ -14,7 +14,7 @@ twitter_username: barazou
 github_username:  yulijia
 disqus_shortname: freshman21
 favicon:     "/images/favicon.ico"
-aboutme: Hi, this is Lijia Yu. I made the Freshman21 theme. Please enjoy it. # these are shown on aboutme-sidebar.
+aboutme: 野良プログラマー # these are shown on aboutme-sidebar.
 aboutme_photo: https://karate-bakabon.github.io/diary/images/cat.jpg
 google_analytics_key: UA-57979084-1 # put YOUR key here to enable tracking! (blank to disable)
 
