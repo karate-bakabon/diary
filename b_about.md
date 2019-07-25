@@ -26,4 +26,4 @@ permalink: /about/
 [Twitter](https://twitter.com/barazou  "Twitter")
 
 
-![麋鹿](https://karate-bakabon.github.io/diary/images/cat.jpg){: .img-about}
+![麋鹿](https://karate-bakabon.github.io/diary/images/cat.jpg)
