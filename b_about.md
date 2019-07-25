@@ -25,4 +25,4 @@ A tribute to Twenty Twelve and Twenty eleven.
 [Twitter](https://twitter.com/barazou  "Twitter")
 
 
-![麋鹿](https://karate-bakabon.github.io/diary/images/cat.jpg){: .img-about}
+![麋鹿](https://karate-bakabon.github.io/diary/images/cat.jpg)
